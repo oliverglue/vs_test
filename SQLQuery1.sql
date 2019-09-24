@@ -1,1 +1,2 @@
-﻿select * from TAS.dbo.InDocument
+﻿select * from tas.dbo.InDocument
+
