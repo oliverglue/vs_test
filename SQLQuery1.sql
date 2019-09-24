@@ -1,1 +1,1 @@
-test * from all
+﻿select * from TAS.dbo.InDocument
